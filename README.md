@@ -72,7 +72,7 @@ Commands:
 ```
 ### :handshake: Contributing
 
-### :flask: Testing
+### :test_tube: Testing
 
 ### :tanabata_tree: Project layout
 ```
