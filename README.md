@@ -50,11 +50,13 @@ So, currently I no longer like using note-taking apps like Ever...(You know who 
   pip install -r requirements.txt
   ```
 
-### :rocket: QuickStart
+### :rocket: [WIP]QuickStart
 
-[This will be updated soon]
+To use it you need to acess you Github account and go to Settings -> Developer Settings -> Personal access tokens, where you will need to generate a new token. OctoMemo just needs repo permissions, all other options can stay deselected.
 
 Download thist repo, use `cd OctoMemo` and try `python3 scripts/app-cli.py [OPTIONS] COMMAND [ARGS]`
+
+First time you do the command above, OctoMemo will request the acess token, copy and paste the acess token created before to start using OctoMemo. Currently it requires a little effort, I intend to improve it later.
 
 ### :computer: Usage
 
